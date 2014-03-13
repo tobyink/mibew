@@ -29,9 +29,9 @@ $mibew_encoding = "utf-8";
  *  MySQL Database parameters
  */
 $mysqlhost = "localhost";
-$mysqldb = "mibew_db";
+$mysqldb = "dev-mibew";
 $mysqllogin = "mibew";
-$mysqlpass = "123";
+$mysqlpass = "mibew123";
 $mysqlprefix = "";
 
 $dbencoding = "utf8";
